@@ -1,0 +1,48 @@
+@font-face{
+
+	font-family: 'police';
+	src: url('Aller_Bd.ttf');
+}
+
+h1{font-size: 25px; color: #D17600;}
+li{color: #131313;}
+p, h1, a, li{font-family: 'police'; text-align: justify-all;}
+p{color: #131313;}
+hr{border-color: #D17600; border-width: 2px;}
+
+.akeneo{color: #58155A;}
+.logo{float: right;}
+.jours{color: #D17600;}
+.taches{font-size: 0.9em;}
+.htmlcss{float: right;}
+
+.all{float: right; position: absolute; left: 160px;}
+.ar{float: right; position: absolute; left: 160px;}
+.au{float: right; position: absolute; left: 160px;}
+.bel{float: right; position: absolute; left: 160px;}
+.ca{float: right; position: absolute; left: 160px;}
+.ch{float: right; position: absolute; left: 160px;}
+.da{float: right; position: absolute; left: 160px;}
+.es{float: right; position: absolute; left: 160px;}
+.eu{float: right; position: absolute; left: 160px;}
+.lu{float: right; position: absolute; left: 160px;}
+.me{float: right; position: absolute; left: 160px;}
+.nz{float: right; position: absolute; left: 160px;}
+.pb{float: right; position: absolute; left: 160px;}
+.su{float: right; position: absolute; left: 160px;}
+.uk{float: right; position: absolute; left: 160px;}
+
+.pp2{float: right; position: absolute; left: 400px;}
+.pp1{float: right; position: absolute; left: 475px;}
+
+.pp3{float: right; position: absolute; left: 1175px;}
+
+.lien{color: #336666; text-decoration: none; font-weight: bold; font-size: 0.9em;}
+
+.schema{float: right; position: absolute; left: 350px;}
+
+body{background: floralwhite;}
+body{border: 3px black dotted; border-color: #D17600;}
+
+
+a:hover{color: darkred;}
