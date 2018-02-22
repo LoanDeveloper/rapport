@@ -41,8 +41,36 @@ hr{border-color: #D17600; border-width: 2px;}
 
 .schema{float: right; position: absolute; left: 350px;}
 
+.vert{ width:5px; border-left:4px solid gray; height:535px; float: right; position: absolute; left: 300px; border-color: #D17600} 
+.text{color-interpolation: red;}
+
 body{background: floralwhite;}
 body{border: 3px black dotted; border-color: #D17600;}
 
 
 a:hover{color: darkred;}
+
+
+/*			Proposition de lien :
+
+.lien02 {
+    margin-bottom: 20px}
+    .lien02 {
+    padding: 21px 35px 21px 58px;
+}
+.lien01, .lien02 > a, .button, .button-primary, .ht-voting-comment__submit, input.gform_button {
+    display: inline-block;
+    padding: 13px 25px;
+    position: relative;
+    font-family: lato,sans-serif;
+    font-size: 1.2em;
+    color: #58155A;
+    border-radius: 3px;
+    background: #D17600;
+    text-decoration: none;
+}
+
+<p>Vous pouvez allez visiter leur site internet : <a href="https://www.akeneo.com/fr/" class="lien01 lien02"
+ target="_blank" onclick="__gaTracker('send', 'event', 'download-ce', 'https://www.akeneo.com/fr/');"><strong>Akeneo.com/fr/</strong></a> 
+
+    */
